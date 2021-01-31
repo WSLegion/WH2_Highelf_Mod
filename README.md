@@ -68,6 +68,7 @@ Teclis buffs phoenix units, mainly because he has a phoenix mount in game, I hav
   * Frostheart Phoenix
     * Enable "Rebirth"
   * Swordmasters of Hoeth
+    * +10% Ward Save
     * Enable "Master of Swords"
       - Toggleable Ability
       - While activated, reduce Anti-Infantry Bonus by 14, increase Anti-Large Bonus by 20, gain "Charge Defence vs Large"
@@ -165,7 +166,7 @@ Buffs Shadow Warriors and Shadow Walkers (for obvious reason). Upon unlocking st
     * +200% AP-Weapon Strength
     * -50% Non-AP-Weapon Strength
 # Eltharion
-Buffs Mistwalker units. Upon unlocking stage 1, 5 units of Athel Tamarha Faithbearers, Sentinels of Astaril and Spire Guard of Tor Yvresse plus 2 units of Skyhawks will be available from any region with tier 3 barracks. 2 units of Knights of Tor Gaval will be available from Dragon's Lair. Note: If you are playing as Yvress, all capacity upgrades will be doubled, since these are copies of the original units and enjoy the same buffs. This will make the game easier, buff I believe this is necessary for all other high elf factions to enjoy Mistwalkers.
+Buffs Mistwalker units. Upon unlocking stage 1, 5 units of Athel Tamarha Faithbearers, Sentinels of Astaril and Spire Guard of Tor Yvresse plus 2 units of Skyhawks will be available from any region with tier 3 barracks. 2 units of Knights of Tor Gaval will be available from Dragon's Lair. Note: If you are playing as Yvress, all capacity upgrades will be doubled, since these are copies of the original units and enjoy the same buffs. This will make the game easier, but I am willing to pay the price if that allows all other high elf factions to enjoy Mistwalkers.
 ## Stage 1
   * Sentinels of Astaril
     * +3% Missile Damage
