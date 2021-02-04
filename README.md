@@ -32,7 +32,7 @@ Tyrion buffs Lothern Seaguards since he leads "Eatain" Faction. Ellyrion Reavers
     * Enable "Exposing Volley" 
       - Active Ability, 2 charges per battle
       - Fire a volley that does about half the damage, but enemies hit will have less shield parry and missile resistance for 60s
-      - Comment: This ability can be fired while your normal missile attack is in cooldown, granting you some extra dps. But this is mostly used to focus fire down high value enemy units.
+      - Comment: From my understanding, this ability can be fired while your normal missile attack is in cooldown, granting you some extra dps (Pretty hard to say for sure tho). But this is mostly used to focus fire down enemy units with high missile defence.
   * Ellyrion Reaver (Melee):
     * +300% AP-Weapon Strength
     * +12 Anti-Large Bonus
@@ -45,7 +45,7 @@ Tyrion buffs Lothern Seaguards since he leads "Eatain" Faction. Ellyrion Reavers
       - Missile Weapon now has high AP-ratio
     * Enable "Strider"
 # Teclis
-Teclis buffs phoenix units, mainly because he has a phoenix mount in game, I have no idea if it is lore accurate. Since Arcane phoenix is the best variant and is doomstack material, other phoenixes are given buffs to match up to it. He also buffs Swordmaster of Hoeth as leader of "Order of Loremasters", though they are one of the best damage-dealing infantry, none of the units in this category does well in VH battle difficulty.
+Teclis buffs phoenix units, mainly because he has a phoenix mount in game. Since Arcane phoenix is the best variant and is doomstack material, other phoenixes are given buffs to match up to it. He also buffs Swordmaster of Hoeth as leader of "Order of Loremasters", though they are one of the best damage-dealing infantry, none of the units in this category does well in VH battle difficulty.
 ## Stage 1
   * Flamespyre Phoenix
     * +5 Charge Bonus
@@ -72,7 +72,7 @@ Teclis buffs phoenix units, mainly because he has a phoenix mount in game, I hav
     * Enable "Master of Swords"
       - Toggleable Ability
       - While activated, reduce Anti-Infantry Bonus by 14, increase Anti-Large Bonus by 20, gain "Charge Defence vs Large"
-      - Comment: Use them as either a anti-large or anti-infantry unit.
+      - Comment: Use them as either an anti-large or anti-infantry unit.
     * Enable "Unparalleled Finesse"
       - Active Ability, 60s CD (+90s duration)
       - Upon activation, gain 20% ward save, 10 Melee Attack/ Defence, lasts 60s
