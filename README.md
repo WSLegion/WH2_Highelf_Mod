@@ -1,5 +1,5 @@
 # Tyrion
-Tyrion buffs Lothern Seaguards since he leads "Eatain" Faction. Ellyrion Reavers are added in to give this army some mobility support, but they are extreme glass cannons and needs to be microed heavily (Which is something I can't manage)
+Tyrion buffs Lothern Seaguards since he leads "Eatain" Faction. The shielded variant is a better line holding unit. The non-shielded variant has a AP-projectile which allows them to be viable late-game missile infantry. Ellyrion Reavers are added in to give this army some mobility support, but they are extreme glass cannons and needs to be microed heavily (Which is something I can't manage)
 ## Stage 1
   * Lothern Seaguard (Shield):
     * +10 Armour
