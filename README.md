@@ -20,6 +20,8 @@ Tyrion buffs Lothern Seaguards since he leads "Eatain" Faction. The shielded var
   * Lothern Seaguard (Shield):
     * +30 Armour
     * +15% Physical Resistance
+    * Missile Weapon inflicts "Pinned Down"
+      - Enemy units hit suffer from -20% Speed and -8 Morale.
     * Enable "Bracing Stance"
       - Toggleable Ability
       - Upon activation, enter the preparation phase, reduce range by 100%, reduce speed by 35%, increase melee defence by 5
